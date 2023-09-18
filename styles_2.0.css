@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(236, 232, 225);
+}
+
+h1 {
+    font-family: DIN Next Arabic Medium, sans-serif;
+    color: rgb(15, 25, 35);
+}
+
+p {
+    text-align: left;
+    color: rgb(15, 25, 35);
+    font-family: DINfun Pro Inktrap, sans-serif;
+    font-size: large;
+}
+
+img {
+    float: left;
+    margin: 70px;
+}
+
+.agent_info {
+    font-family: DIN Next Arabic Medium, sans-serif;
+    color: rgb(15, 25, 35);
+    font-size: x-large;
+    clear: right;
+}
+
+table, td, th {
+    border: 3px solid rgb(15, 25, 35);
+    text-align: center;
+    padding: 25px;
+    margin: 60px;
+    background-color: azure;
+}
+
+.abilities {
+    font-family: DINfun Pro Inktrap, sans-serif;
+    color: rgb(15, 25, 35);
+    font-size: x-large;
+    float: left;
+    position: absolute;
+    left: 28em;
+}
+
+button {
+    font-size: x-large;
+    background-color: cadetblue;
+    cursor: pointer;
+}
